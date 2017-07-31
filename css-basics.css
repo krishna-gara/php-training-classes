@@ -1,0 +1,25 @@
+/*
+syntax
+----------------------
+ruleset{
+    property : value;
+}
+----------------------
+types of selector
+----------------------
+element based   --- p {color:red;}
+attribute based  -- [value='50']{color:blue}
+class           -- .exclass{ color: grey;}
+id              --  #myid{color:blue; }
+pseudo selector  -- p:hover{color:red;}
+pseudo attribute  ---p::hover{color:red;}
+combination elements -- header > ul > li > [attr="page1 "]{}
+
+color  --> red,hexadecimal #0000ff, rgb(150,50,10);
+background
+text
+font
+margin
+padding
+border
+*/
