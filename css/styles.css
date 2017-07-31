@@ -1,0 +1,12 @@
+div {
+    /*
+       background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit;
+        background-image: url("../img_girl.jpg");
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: 10%;
+        background-origin:padding-box;
+    */
+    background:url("../images/img_girl.jpg") left/10% no-repeat ;
+
+}
