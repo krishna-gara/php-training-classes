@@ -1,12 +1,12 @@
 /*
 syntax
-----------------------
+---------------------
 ruleset{
     property : value;
 }
-----------------------
+---------------------
 types of selector
-----------------------
+---------------------
 element based   --- p {color:red;}
 attribute based  -- [value='50']{color:blue}
 class           -- .exclass{ color: grey;}

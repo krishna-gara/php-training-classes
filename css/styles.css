@@ -8,5 +8,25 @@ div {
         background-origin:padding-box;
     */
     background:url("../images/img_girl.jpg") left/10% no-repeat ;
+    overflow-y:scroll;
+    text-overflow:ellipsis;
+    word-spacing:10px;
+    letter-spacing:10px;
+}
 
+table{
+    height:100px;
+    border-collapse: collapse;
+}
+th{
+    color:yellow;
+    height:50px;
+    background-color: #333333;
+}
+.even{background-color: greenyellow !important; border-right:none!important; }
+.odd{background-color: chocolate;}
+table,tr,td{
+    color:#ffffff;
+    border:1px solid red;
+    text-align: center;
 }
